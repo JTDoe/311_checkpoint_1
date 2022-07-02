@@ -1,3 +1,5 @@
+const bodyParser = require('body-parser')
+
 module.exports = [
   {
     "id": 1,
